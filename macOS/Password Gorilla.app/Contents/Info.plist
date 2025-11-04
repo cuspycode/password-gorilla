@@ -4,8 +4,12 @@
 <dict>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>English</string>
+	<key>LSArchitecturePriority</key>
+	<array>
+	  <string>arm64</string>
+	</array>
 	<key>CFBundleExecutable</key>
-	<string>gorilla.aqua</string>
+	<string>gorilla.sh</string>
 	<key>CFBundleGetInfoString</key>
 	<string>Password Gorilla</string>
 	<key>CFBundleIconFile</key>
